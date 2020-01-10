@@ -4,8 +4,8 @@ Cloud Provider : AWS
 |Instance Name | DNS | IP| OS |
 |------|----|----|---|
 |i-0402ee44da936525a|ec2-18-139-138-68.ap-southeast-1.compute.amazonaws.com|18.139.138.68| CentOS Linux 7|
-|i-0402ee44da936525a|ip-172-31-16-171.ap-southeast-1.compute.internal|172.31.16.171| CentOS Linux 7|
-|i-0f3d8f4a53031aa57|ip-172-31-30-88.ap-southeast-1.compute.internal|172.31.30.88| CentOS Linux 7|
+|i-0402ee44da936525a|ec2-52-74-144-71.ap-southeast-1.compute.amazonaws.com|52.74.144.71| CentOS Linux 7|
+|i-0f3d8f4a53031aa57|ec2-3-1-148-128.ap-southeast-1.compute.amazonaws.com|3.1.148.128| CentOS Linux 7|
 
 ## File System Capacity
 ```
